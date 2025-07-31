@@ -78,7 +78,7 @@ public class Algorithms {
         // SelectionSort(arr);
         // InsertionSort(arr);
         // CountSort(arr);
-        printArray(arr);
+        printArray(arr);   ///
 
         
     }
