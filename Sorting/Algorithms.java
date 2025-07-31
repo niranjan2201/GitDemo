@@ -77,7 +77,7 @@ public class Algorithms {
         // BubbleSort(arr);
         // SelectionSort(arr);
         // InsertionSort(arr);
-        CountSort(arr);
+        // CountSort(arr);
         printArray(arr);
 
         
